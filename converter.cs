@@ -5,9 +5,9 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Davut
+namespace dekar
 {
-    class Program
+    class XD
     {
         static void Main(string[] args)
 
